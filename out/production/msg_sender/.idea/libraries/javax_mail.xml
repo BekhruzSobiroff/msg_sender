@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax_mail">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/javax_mail" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
