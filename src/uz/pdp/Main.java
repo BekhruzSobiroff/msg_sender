@@ -14,7 +14,7 @@ public class Main {
     private static int id=0;
     private static List<User> dataBase=new ArrayList<>();
     public static void main(String[] args) {
-        System.out.println("1.register\n2.get db\nsend file");
+        System.out.println("1.register\n2.get db\n3.send file");
         int r=sc().nextInt();
         switch (r){
             case 1->{
